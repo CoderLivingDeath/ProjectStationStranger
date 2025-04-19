@@ -428,9 +428,9 @@ MonoBehaviour:
   _inputMovementSmoothingFactor: 0.1
   _smoothingInput: {x: 0, y: 0}
   _inputIsActive: 0
-  _decelerationScale: 40
+  _decelerationScale: 15
   _moveDelta: {x: 0, y: 0}
-  _smoothingDeltaFactor: 0.3
+  _smoothingDeltaFactor: 0.9
   _smoothedMoveDelta: {x: 0, y: 0}
   _velocity: 0
   _normalizedVelocity: 0
@@ -441,8 +441,8 @@ MonoBehaviour:
     - serializedVersion: 3
       time: 0
       value: 0
-      inSlope: 0
-      outSlope: 0
+      inSlope: 2
+      outSlope: 2
       tangentMode: 0
       weightedMode: 0
       inWeight: 0
@@ -459,7 +459,7 @@ MonoBehaviour:
     m_PreInfinity: 2
     m_PostInfinity: 2
     m_RotationOrder: 4
-  _accelerationDuration: 1
+  _accelerationDuration: 2
   _brakingCurve:
     serializedVersion: 2
     m_Curve:
@@ -484,7 +484,7 @@ MonoBehaviour:
     m_PreInfinity: 2
     m_PostInfinity: 2
     m_RotationOrder: 4
-  _brakingDuration: 1
+  _brakingDuration: 0.5
 --- !u!1 &619394800
 GameObject:
   m_ObjectHideFlags: 0
