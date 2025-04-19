@@ -391,13 +391,14 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   _currentState: 0
-  _smooth: 1
-  DecelerationScale: 1
-  _inputIsActive: 0
   _input: {x: 0, y: 0}
-  _direction: {x: 0, y: 0}
-  _prevDirection: {x: 0, y: 0}
-  _offset: {x: 0, y: 0}
+  _inputMovementSmoothingFactor: 0.1
+  _smoothingInput: {x: 0, y: 0}
+  _inputIsActive: 0
+  _decelerationScale: 40
+  _moveDelta: {x: 0, y: 0}
+  _smoothingDeltaFactor: 0.3
+  _smoothedMoveDelta: {x: 0, y: 0}
   _velocity: 0
   _normalizedVelocity: 0
   _maxVelocity: 0.3
@@ -450,7 +451,7 @@ MonoBehaviour:
     m_PreInfinity: 2
     m_PostInfinity: 2
     m_RotationOrder: 4
-  _brakingDuration: 0.3
+  _brakingDuration: 1
 --- !u!1 &619394800
 GameObject:
   m_ObjectHideFlags: 0
