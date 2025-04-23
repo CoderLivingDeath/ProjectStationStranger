@@ -1,58 +1,42 @@
 .menu-button {
-    width: 100%;
-    transition-duration: 500ms, 1000ms;
-    transition-timing-function: linear, ease-in-out-back;
-    transition-property: all, background-color;
+    background-image: url("project://database/Assets/Project/Media/Game_Button_Elements-Photoroom.png?fileID=4106946291289164208&guid=e69d8cd51fc883b49b379733de780c0a&type=3#Game_Button_Elements-Photoroom_10");
+    -unity-background-image-tint-color: rgb(255, 255, 255);
+    background-color: rgba(0, 0, 0, 0);
+    border-left-color: rgba(0, 0, 0, 0);
+    border-right-color: rgba(0, 0, 0, 0);
+    border-top-color: rgba(0, 0, 0, 0);
+    border-bottom-color: rgba(0, 0, 0, 0);
+    transition-duration: 0ms, 500ms, 500ms;
+    width: 311px;
+    height: 139px;
+    transition-timing-function: ease-out-bounce, ease-in-out-back, ease-in-out-back;
+    transition-property: all, width, height;
 }
 
-.menu-button:hover {
-    width: 120%;
-    height: auto;
-    transition-timing-function: ease-out-circ;
-    transition-duration: 500ms;
-    border-top-width: 0;
-    border-right-width: 0;
-    border-bottom-width: 0;
-    border-left-width: 0;
-    border-left-color: rgb(0, 0, 0);
-    border-right-color: rgb(0, 0, 0);
-    border-top-color: rgb(0, 0, 0);
-    border-bottom-color: rgb(0, 0, 0);
-    border-top-left-radius: 0;
-    border-top-right-radius: 0;
-    border-bottom-right-radius: 0;
-    border-bottom-left-radius: 0;
-    transition-property: all;
-    background-color: rgb(0, 0, 0);
-    color: rgb(255, 255, 255);
-    margin-top: 0;
-    margin-right: 0;
-    margin-bottom: 0;
-    margin-left: 0;
+.menu-Button-hoverContainer > .menu-button:hover {
+    width: 100%;
+    height: 100%;
+    transition-duration: 0ms, 500ms, 500ms;
+    transition-timing-function: ease-in-out-circ, ease-out-bounce, ease-out-bounce;
+    transition-property: all, width, height;
+}
+
+.menu-Button-hoverContainer {
+    flex-grow: 0;
+    align-items: center;
+    justify-content: center;
+    flex-shrink: 0;
+    width: 356px;
+    height: 161px;
 }
 
 .menu-button:active {
-    width: 120%;
-    height: auto;
-    transition-timing-function: ease-out-cubic;
-    transition-duration: 500ms;
-    border-top-width: 0;
-    border-right-width: 0;
-    border-bottom-width: 0;
-    border-left-width: 0;
-    border-left-color: rgb(0, 0, 0);
-    border-right-color: rgb(0, 0, 0);
-    border-top-color: rgb(0, 0, 0);
-    border-bottom-color: rgb(0, 0, 0);
-    border-top-left-radius: 0;
-    border-top-right-radius: 0;
-    border-bottom-right-radius: 0;
-    border-bottom-left-radius: 0;
+    background-image: url("project://database/Assets/Project/Media/Game_Button_Elements-Photoroom.png?fileID=-5385461166602706733&guid=e69d8cd51fc883b49b379733de780c0a&type=3#Game_Button_Elements-Photoroom_13");
+    -unity-background-image-tint-color: rgb(255, 255, 255);
+    background-color: rgba(0, 0, 0, 0);
     transition-property: all;
-    background-color: rgb(255, 0, 0);
+    transition-duration: 0s;
+    transition-timing-function: ease;
+    transition-delay: 0s;
     color: rgb(255, 255, 255);
-    margin-top: 0;
-    margin-right: 0;
-    margin-bottom: 0;
-    margin-left: 0;
 }

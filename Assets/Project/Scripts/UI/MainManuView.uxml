@@ -1,0 +1,22 @@
+<engine:UXML xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:engine="UnityEngine.UIElements" xmlns:editor="UnityEditor.UIElements" noNamespaceSchemaLocation="../../../../UIElementsSchema/UIElements.xsd" editor-extension-mode="False">
+    <Style src="project://database/Assets/Project/Scripts/UI/styles.uss?fileID=7433441132597879392&amp;guid=7b316dc5d52c7574387677af79c1e99c&amp;type=3#styles" />
+    <engine:VisualElement style="flex-grow: 1;">
+        <engine:VisualElement style="flex-grow: 1; flex-shrink: 0; align-items: center; justify-content: center;">
+            <engine:VisualElement class="menu-Button-hoverContainer">
+                <engine:Button text="Button" class="menu-button" />
+            </engine:VisualElement>
+            <engine:VisualElement class="menu-Button-hoverContainer">
+                <engine:Button text="Button" class="menu-button" />
+            </engine:VisualElement>
+            <engine:VisualElement class="menu-Button-hoverContainer">
+                <engine:Button text="Button" class="menu-button" />
+            </engine:VisualElement>
+            <engine:VisualElement class="menu-Button-hoverContainer">
+                <engine:Button text="Button" class="menu-button" />
+            </engine:VisualElement>
+            <engine:VisualElement class="menu-Button-hoverContainer">
+                <engine:Button text="Button" class="menu-button" />
+            </engine:VisualElement>
+        </engine:VisualElement>
+    </engine:VisualElement>
+</engine:UXML>

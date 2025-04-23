@@ -1,0 +1,507 @@
+fileFormatVersion: 2
+guid: e69d8cd51fc883b49b379733de780c0a
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -3854904899539273123
+    second: Game_Button_Elements-Photoroom_0
+  - first:
+      213: 5002394396832901096
+    second: Game_Button_Elements-Photoroom_1
+  - first:
+      213: 300023425889108154
+    second: Game_Button_Elements-Photoroom_2
+  - first:
+      213: 4140175978944000686
+    second: Game_Button_Elements-Photoroom_3
+  - first:
+      213: 3693380123517864197
+    second: Game_Button_Elements-Photoroom_4
+  - first:
+      213: -8845077587649487405
+    second: Game_Button_Elements-Photoroom_5
+  - first:
+      213: 9051257398497019663
+    second: Game_Button_Elements-Photoroom_6
+  - first:
+      213: 8704668573353071589
+    second: Game_Button_Elements-Photoroom_7
+  - first:
+      213: 5611934615871370004
+    second: Game_Button_Elements-Photoroom_8
+  - first:
+      213: -9217659883255528304
+    second: Game_Button_Elements-Photoroom_9
+  - first:
+      213: 4106946291289164208
+    second: Game_Button_Elements-Photoroom_10
+  - first:
+      213: 2543598334447754099
+    second: Game_Button_Elements-Photoroom_11
+  - first:
+      213: -7957032480953443136
+    second: Game_Button_Elements-Photoroom_12
+  - first:
+      213: -5385461166602706733
+    second: Game_Button_Elements-Photoroom_13
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Game_Button_Elements-Photoroom_0
+      rect:
+        serializedVersion: 2
+        x: 67
+        y: 962
+        width: 255
+        height: 254
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d5a7c040b60a08ac0800000000000000
+      internalID: -3854904899539273123
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game_Button_Elements-Photoroom_1
+      rect:
+        serializedVersion: 2
+        x: 364
+        y: 962
+        width: 254
+        height: 254
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8e721a933331c6540800000000000000
+      internalID: 5002394396832901096
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game_Button_Elements-Photoroom_2
+      rect:
+        serializedVersion: 2
+        x: 661
+        y: 962
+        width: 255
+        height: 254
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ab08a6c57b5e92400800000000000000
+      internalID: 300023425889108154
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game_Button_Elements-Photoroom_3
+      rect:
+        serializedVersion: 2
+        x: 958
+        y: 962
+        width: 254
+        height: 254
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ea2ff840e1cd47930800000000000000
+      internalID: 4140175978944000686
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game_Button_Elements-Photoroom_4
+      rect:
+        serializedVersion: 2
+        x: 67
+        y: 665
+        width: 255
+        height: 254
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 50945ca67a5814330800000000000000
+      internalID: 3693380123517864197
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game_Button_Elements-Photoroom_5
+      rect:
+        serializedVersion: 2
+        x: 364
+        y: 665
+        width: 255
+        height: 254
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3dd12691cc8ff3580800000000000000
+      internalID: -8845077587649487405
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game_Button_Elements-Photoroom_6
+      rect:
+        serializedVersion: 2
+        x: 661
+        y: 665
+        width: 255
+        height: 254
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f078a08f5a68c9d70800000000000000
+      internalID: 9051257398497019663
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game_Button_Elements-Photoroom_7
+      rect:
+        serializedVersion: 2
+        x: 958
+        y: 665
+        width: 254
+        height: 254
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5e3573ab2f13dc870800000000000000
+      internalID: 8704668573353071589
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game_Button_Elements-Photoroom_8
+      rect:
+        serializedVersion: 2
+        x: 67
+        y: 368
+        width: 255
+        height: 254
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4133bb1ccc891ed40800000000000000
+      internalID: 5611934615871370004
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game_Button_Elements-Photoroom_9
+      rect:
+        serializedVersion: 2
+        x: 364
+        y: 368
+        width: 255
+        height: 254
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0948f266c2b441080800000000000000
+      internalID: -9217659883255528304
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game_Button_Elements-Photoroom_10
+      rect:
+        serializedVersion: 2
+        x: 659
+        y: 370
+        width: 555
+        height: 254
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0b906e374edcef830800000000000000
+      internalID: 4106946291289164208
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game_Button_Elements-Photoroom_11
+      rect:
+        serializedVersion: 2
+        x: 67
+        y: 71
+        width: 255
+        height: 254
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 37b9808653dac4320800000000000000
+      internalID: 2543598334447754099
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game_Button_Elements-Photoroom_12
+      rect:
+        serializedVersion: 2
+        x: 364
+        y: 71
+        width: 255
+        height: 254
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0cc5682ed11f29190800000000000000
+      internalID: -7957032480953443136
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game_Button_Elements-Photoroom_13
+      rect:
+        serializedVersion: 2
+        x: 659
+        y: 71
+        width: 555
+        height: 254
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3d02cf43a9ff245b0800000000000000
+      internalID: -5385461166602706733
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 42d615682a38c574e8d698aaf4a91e94
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      Game_Button_Elements-Photoroom_0: -3854904899539273123
+      Game_Button_Elements-Photoroom_1: 5002394396832901096
+      Game_Button_Elements-Photoroom_10: 4106946291289164208
+      Game_Button_Elements-Photoroom_11: 2543598334447754099
+      Game_Button_Elements-Photoroom_12: -7957032480953443136
+      Game_Button_Elements-Photoroom_13: -5385461166602706733
+      Game_Button_Elements-Photoroom_2: 300023425889108154
+      Game_Button_Elements-Photoroom_3: 4140175978944000686
+      Game_Button_Elements-Photoroom_4: 3693380123517864197
+      Game_Button_Elements-Photoroom_5: -8845077587649487405
+      Game_Button_Elements-Photoroom_6: 9051257398497019663
+      Game_Button_Elements-Photoroom_7: 8704668573353071589
+      Game_Button_Elements-Photoroom_8: 5611934615871370004
+      Game_Button_Elements-Photoroom_9: -9217659883255528304
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

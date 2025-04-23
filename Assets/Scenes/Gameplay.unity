@@ -425,7 +425,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   _currentState: 0
   _input: {x: 0, y: 0}
-  _inputMovementSmoothingFactor: 0.1
+  _inputMovementSmoothingFactor: 0.5
   _smoothingInput: {x: 0, y: 0}
   _inputIsActive: 0
   _decelerationScale: 15
